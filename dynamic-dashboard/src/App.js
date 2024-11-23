@@ -1,4 +1,3 @@
-import './App.css';
 import DashboardPage from './components/dashboard';
 import DrawerAppBar from './layout/MainLayout';
 
